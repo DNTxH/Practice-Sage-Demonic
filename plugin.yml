@@ -1,0 +1,6 @@
+ name: "Sage Demonic"
+ main: vale\sage\demonic\Loader
+ version: 1.0.0
+ author: vaqle
+ description: "LOL"
+ api: 4.0.0
